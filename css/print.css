@@ -1,0 +1,16 @@
+#print-button, nav, .card, .card-2, .page-footer, .option, .notapproved, .rss, .noprint{
+	display: none;
+}
+.cal_top { padding: 0px !important; }
+
+@page { margin: 0; size:landscape;}
+body { margin: 1.6cm; }
+
+.grid {
+	margin: 0;
+	width:100%;
+	box-shadow: none;
+}
+    html, body {
+        height: 90%;    
+    }

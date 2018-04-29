@@ -1,0 +1,85 @@
+/*nav bar css*/
+.nav-wrapper{
+		  background-color: #660000;
+      height:80px;
+		  }
+		
+.logo{
+
+width:57px;
+}
+
+   h5{
+   	color:#600 !important; 
+    padding:0.5em !important;
+    background-color:#A39058 ;
+   }
+
+   	hr { 
+  border : 0;
+  height: 1px; 
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); 
+}
+
+.card1{
+   margin:40px;
+   margin-top:40px;
+} 
+
+.btn, .picker__date-display {
+  background-color: #600 !important;
+}
+
+
+
+.picker__close, .picker__today, .clockpicker-tick{
+  color:#600 !important;
+}
+
+.card-2{
+  padding:3em 3em;
+}
+
+
+
+h3{
+  
+  text-align: center;
+  color:#600;
+      font-family: 'Lobster', cursive;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.pad{
+  padding-top: 10px !important;
+}
+
+.sty{
+  margin: 2% !important;
+    width: 96% !important;
+
+}
+
+#out
+{
+    width:100%;
+    text-align: center;
+    
+}
+.in
+{
+    display: inline-block;
+}
+.hei
+{
+  height:1px !important;
+}
+
+#red{
+  color:#600;
+}
